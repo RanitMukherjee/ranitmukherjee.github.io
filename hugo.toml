@@ -1,0 +1,14 @@
+theme = "PaperMod"
+baseURL = "https://ranitmukherjee.github.io/"
+title = "Ranit Mukherjee"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+[params]
+  name = "Ranit Mukherjee"
+  description = "Computer Science undergraduate, Open Source Contributor, focused on web and mobile development."
+  location = "Kolkata, West Bengal, India"
+  profile_image = "/images/profile.jpg"
+  github = "https://github.com/RanitMukherjee"
+  linkedin = "https://linkedin.com/in/ranitmukherjee2003"
+  email = "littleranit@gmail.com"
