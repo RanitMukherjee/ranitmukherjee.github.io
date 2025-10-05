@@ -41,3 +41,8 @@ defaultContentLanguage = "en"
     name = "Certifications"
     url = "/certifications/"
     weight = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
