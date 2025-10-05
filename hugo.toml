@@ -12,3 +12,39 @@ defaultContentLanguage = "en"
   github = "https://github.com/RanitMukherjee"
   linkedin = "https://linkedin.com/in/ranitmukherjee2003"
   email = "littleranit@gmail.com"
+
+  [menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Experience"
+    url = "/experience/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Tech Stack"
+    url = "/tech-stack/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Achievements"
+    url = "/achievements/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Certifications"
+    url = "/certifications/"
+    weight = 7
