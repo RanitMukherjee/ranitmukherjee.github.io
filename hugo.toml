@@ -9,11 +9,13 @@ defaultContentLanguage = "en"
   description = "Computer Science undergraduate, Open Source Contributor, focused on web and mobile development."
   location = "Kolkata, West Bengal, India"
   profile_image = "/images/profile.jpg"
+
+[params.social]
   github = "https://github.com/RanitMukherjee"
   linkedin = "https://linkedin.com/in/ranitmukherjee2003"
-  email = "littleranit@gmail.com"
+  email = "mailto:littleranit@gmail.com"
 
-  [menu]
+[menu]
   [[menu.main]]
     name = "Home"
     url = "/"
@@ -35,16 +37,16 @@ defaultContentLanguage = "en"
     weight = 4
 
   [[menu.main]]
-    name = "Tech Stack"
-    url = "/tech-stack/"
-    weight = 5
-
-  [[menu.main]]
     name = "Achievements"
     url = "/achievements/"
-    weight = 6
+    weight = 5
 
   [[menu.main]]
     name = "Certifications"
     url = "/certifications/"
-    weight = 7
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
