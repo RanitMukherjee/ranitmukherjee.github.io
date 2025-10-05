@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Hi there! I'm Ranit Mukherjee on Ranit Mukherjee</title><link>https://ranitmukherjee.github.io/</link><description>Recent content in Hi there! I'm Ranit Mukherjee on Ranit Mukherjee</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Fri, 12 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ranitmukherjee.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Achievements</title><link>https://ranitmukherjee.github.io/achievements/</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://ranitmukherjee.github.io/achievements/</guid><description>&lt;ul>
+&lt;li>Ranked 100th out of 444 teams in OES Hackathon at HackerEarth.&lt;/li>
+&lt;li>Lead Developer in Corridor Platform Hackathon (Jan 2024); built Rule Builder system, selected Top 8 of 50+ teams.&lt;/li>
+&lt;li>Team Lead for Smart India Hackathon 2023; won college round and represented for Tinnitus Relief PS.&lt;/li>
+&lt;li>Open Source Contributor during Hacktoberfest 2022 with multiple pull requests merged.&lt;/li>
+&lt;/ul></description></item><item><title>Experience</title><link>https://ranitmukherjee.github.io/experience/</link><pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate><guid>https://ranitmukherjee.github.io/experience/</guid><description>&lt;h3 id="open-source-contributor-layer5--2025">Open Source Contributor, Layer5 — 2025&lt;/h3>
+&lt;ul>
+&lt;li>Worked across the Meshery codebase.&lt;/li>
+&lt;li>Migrated the UI from JavaScript to TypeScript, improving maintainability and type safety.&lt;/li>
+&lt;/ul>
+&lt;h3 id="open-source-contributor-foss-hack-2024--july-2024">Open Source Contributor, FOSS Hack 2024 — July 2024&lt;/h3>
+&lt;ul>
+&lt;li>Migrated Keyshade CLI from Node.js to Bun, enhancing runtime performance.&lt;/li>
+&lt;/ul>
+&lt;h3 id="trainee-intel-unnati-program--may-2024">Trainee, Intel Unnati Program — May 2024&lt;/h3>
+&lt;ul>
+&lt;li>Developed a custom chatbot using a Retrieval-Augmented Generation (RAG) pipeline.&lt;/li>
+&lt;li>Documented and presented the solution.&lt;/li>
+&lt;/ul></description></item><item><title>3D Real-time Multiplayer Shooting Game</title><link>https://ranitmukherjee.github.io/projects/multiplayer-shooting/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://ranitmukherjee.github.io/projects/multiplayer-shooting/</guid><description>&lt;p>A browser-based multiplayer 3D shooting game built using React, Node.js, Three.js, and Socket.io featuring real-time gameplay.&lt;/p></description></item><item><title>Sentiment Analysis</title><link>https://ranitmukherjee.github.io/projects/sentiment-analysis/</link><pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><guid>https://ranitmukherjee.github.io/projects/sentiment-analysis/</guid><description>&lt;p>Implemented sentiment analysis using CNN and fine-tuned BERT models for Twitter sentiment classification in Python using TensorFlow.&lt;/p></description></item><item><title>EmotiCare – Mental Health Companion</title><link>https://ranitmukherjee.github.io/projects/emoticare/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://ranitmukherjee.github.io/projects/emoticare/</guid><description>&lt;p>Developed an AI chatbot using Streamlit, NLP and deep learning for emotion detection and empathetic response generation focused on mental health support.&lt;/p></description></item></channel></rss>
