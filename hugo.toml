@@ -37,11 +37,6 @@ defaultContentLanguage = "en"
     url = "/achievements/"
     weight = 4
 
-  [[menu.main]]
-    name = "Certifications"
-    url = "/certifications/"
-    weight = 5
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
